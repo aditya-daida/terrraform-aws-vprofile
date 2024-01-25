@@ -1,2 +1,1 @@
-# terrraform-aws-vprofile
-terrraform-aws-vprofile
+# Terraform code for v-profile project
